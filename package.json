@@ -1,0 +1,15 @@
+{
+  "name": "z-index-arbitrator",
+  "version": "1.0.0",
+  "description": "Stops CSS z-index wars with sensible layering",
+  "main": "z-index-arbitrator.js",
+  "bin": {
+    "z-index-arbitrator": "z-index-arbitrator.js"
+  },
+  "scripts": {
+    "start": "node z-index-arbitrator.js"
+  },
+  "keywords": ["css", "z-index", "tool", "utility"],
+  "author": "",
+  "license": "MIT"
+}
